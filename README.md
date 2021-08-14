@@ -29,8 +29,7 @@ sudo apt install wget
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
 source ~/.profile
 nvm ls-remote
-nvm install 15.14.0
-
+nvm install
 ```
 
 ## Install Flutter
